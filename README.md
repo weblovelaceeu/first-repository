@@ -2,7 +2,7 @@
 php project
 
 #Kate
-#Develop code...and meysalf..
+#Develop code...and mysalf..
 
   <?php
 
